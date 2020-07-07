@@ -1,0 +1,9 @@
+C:\Users\Liam\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\Liam\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\Liam\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\Liam\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csprojAssemblyReference.cache
+C:\Users\Liam\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Form1.resources
+C:\Users\Liam\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.Properties.Resources.resources
+C:\Users\Liam\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.GenerateResource.cache
+C:\Users\Liam\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\Liam\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
